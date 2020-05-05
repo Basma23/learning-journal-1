@@ -10,7 +10,7 @@
 |Index |                      Title                     |
 |:----:|:----------------------------------------------:|
 |  01  |[Home](https://basma23.github.io/reading-notes/)|
-|  02  |                                                |
+|  02  |[Introductory HTML and JavaScript]()            |
 |  03  |                                                |
 |  04  |                                                |
 |  05  |                                                |
