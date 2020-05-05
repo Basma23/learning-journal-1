@@ -20,7 +20,7 @@
 |  09  |[Forms and Events]()            |
 |  10  |[JS Debugging]()            |
 |  11  |[Assorted Topics]()            |
-|  12  |[Docs for the HTML <canvas> Element & Chart.js]()            |
+|  12  |[Docs for the HTML 'canvas' Element & Chart.js]()            |
 |  13  |[Local Storage]()            |
 |  14  |[CSS Transforms, Transitions, and Animations]()|
 |  15  |[What Google Learned About Teams]()            |
