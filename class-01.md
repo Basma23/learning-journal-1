@@ -61,3 +61,15 @@ We should to sketch your web page how it will be look like, and we can use **Sit
 
 
 - To make simple present of our information we can use **grouping and similarity**.
+
+# What is JavaScript? #
+
+The script consider as a set of instructions which the computer do the step by step or one by one to achieve a specific goal.
+
+When we are running JavaScript it might only use a subset of all the instructions at each time. 
+
+To deal with writing JavaScript code or script we should to determine our goal and break it down into a series of tasks and then work out each step needed to complete that task.
+
+The better way to write JavaScript code is pot it in its own file like HTML code, and CSS code but the extension for it is .js, and we link it with HTML by using script tag inside body tag in HTML file,and when we render it, the JavaScript will not have changed the HTML, because it deals with the model of the web page that the browser has created.
+
+
