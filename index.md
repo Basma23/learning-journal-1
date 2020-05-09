@@ -10,6 +10,7 @@
 - Document Object Model (DOM) Manipulation & Traversal
 - Multiple Approaches to Page Layout
 - Using GitHub Repos and Sharing Code With Project Teams
+
 **By using these programming languages:**
 - HTML
 - CSS
