@@ -7,7 +7,7 @@
 
 **Each list can contain onother list inside it.**
 ## CSS Boxes
-**CSS deals with each HTML element as it has its own box, so we can do several properties that affect the appearance of these boxes.** 
+**CSS deals with each HTML element as if it has its own box, so we can do several properties that affect the appearance of these boxes.** 
 
 ***We can do:***
 - Control the dimensions of our boxes.
