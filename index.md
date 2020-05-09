@@ -2,6 +2,7 @@
 ## What is Code 201 about?
 
 **201 will talk about these topics:**
+
 ***Concepts of:***
 - HTML5 and CSS3
 - Object-Oriented Programming
