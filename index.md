@@ -1,9 +1,21 @@
 # Code 201 Reading Notes
 ## What is Code 201 about?
 
+**201 will talk about these topics:**
+***Concepts of:***
+- HTML5 and CSS3
+- Object-Oriented Programming
+- Introductory Data Structures & Algorithms
+- Document Object Model (DOM) Manipulation & Traversal
+- Multiple Approaches to Page Layout
+- Using GitHub Repos and Sharing Code With Project Teams
+**By using these programming languages:**
+- HTML
+- CSS
+- JavaScript
 
-
-
+## What are read sections will be in Code 201?
+This table bellow showing the read sections in code 201, which contain a list of topics  linked with its page.
 
 
 
