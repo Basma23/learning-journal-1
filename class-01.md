@@ -73,4 +73,4 @@ To deal with writing JavaScript code or script we should to determine our goal a
 The better way to write JavaScript code is pot it in its own file like HTML code, and CSS code but the extension for it is .js, and we link it with HTML by using script tag inside body tag in HTML file,and when we render it, the JavaScript will not have changed the HTML, because it deals with the model of the web page that the browser has created.
 
 
-[Main Page]()
+[Main Page](https://basma23.github.io/reading-notes/)
