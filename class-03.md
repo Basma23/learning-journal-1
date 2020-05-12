@@ -14,5 +14,11 @@
 - Create borders around boxes.
 - Set margins and padding for boxes.
 - Show and hide boxes.
+## JS Control Flow
+- When we want to do a decision making about what we want to do next we use conditional statements.
+- We use the comparison operators when we want to to compare two variables.
+- When we want to combine more than one set of comparison operators we use logical operators. 
+- When we want to run one set of code if a condition is true, and another if it is false we use if .. else statments. 
+- When we want to compare a value against possible outcomes and also provides a default option if none match we use switch statements. 
 
 [Main Page](https://basma23.github.io/reading-notes/)
