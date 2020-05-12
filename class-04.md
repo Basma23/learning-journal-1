@@ -27,7 +27,7 @@ Functions can take parameters and may return a value.
 
 The series of variables and functions that represent something from the world around us we called it **object**.
 
-The properties of the object are variables ; and the methods of the object are functions. 
+The properties of the object are **variables** ; and the methods of the object are **functions**. 
 
 Web browsers execute objects that represent both the browser window and the document loaded in the browser window.
 
