@@ -1,8 +1,8 @@
 # HTML Links, CSS Layout, JS Functions
 ## HTML Links
-We can move between the web pages through linkes which defining the feature of the web. 
+We can move between the web pages through links which defining the feature of the web. 
 
-When we want to do linking on our website, we use **<a>** tag. We can specify which page we want to link to using the href attribute.
+When we want to do linking on our website, we use **anchor** tag. We can specify which page we want to link to using the href attribute.
 
 **We can use links to:**
 - Link from a website to another.
@@ -11,7 +11,7 @@ When we want to do linking on our website, we use **<a>** tag. We can specify wh
 - Link for openning on a new browser window.
 - Link for starting up our email program and address a new email to someone.
 ## CSS Layout
-When we want to containing elements to group together sections of a page, we often use **<div>** elements. 
+When we want to containing elements to group together sections of a page, we often use **div tag** elements. 
 
 Browsers usually display pages in normal flow unless when we  specify relative, absolute, or fixed positioning.
 
@@ -33,7 +33,7 @@ Web browsers execute objects that represent both the browser window and the docu
 
 JavaScript also contains many embedded objects such as String, Number, Math, and Date. Its features and methods provide scripting functionality.
 
-When we want to create a  sets of complex data, we use arrays and objects, and each one can contain the otherone.
+When we want to create a  sets of complex data, we use arrays and objects, and each one can contain the other one.
 
 
 
