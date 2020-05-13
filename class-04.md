@@ -8,7 +8,11 @@ When we want to do linking on our website, we use **anchor** tag. We can specify
 - Link from a website to another.
 - Link from a page to another in the same website.
 - Link from a part to another in the same web page.
+<<<<<<< HEAD
 - Link for openning on a new browser window.
+=======
+- Link for opening on a new browser window.
+>>>>>>> dc46fb9aa3bbb120ad63d24ec53535c858f2f5ee
 - Link for starting up our email program and address a new email to someone.
 ## CSS Layout
 When we want to containing elements to group together sections of a page, we often use **div tag** elements. 
