@@ -1,5 +1,5 @@
 # JS Object Literals; The DOM
-An object is cosidered as a set of variables and functions to create a model of a something.
+An object is considered as a set of variables and functions to create a model of a something.
 
 Variables are the **properties** of an object.
 
