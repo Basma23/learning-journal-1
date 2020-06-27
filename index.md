@@ -62,7 +62,7 @@ This table bellow showing the read sections in code 201, which contain a list of
 - Express.JS
 - Deployment with cloud services like Heroku
 - Daily Practice in Data Structures
-- - Strings
+  - Strings
 - - Arrays
 - - Objects
 - - Functional Programming
