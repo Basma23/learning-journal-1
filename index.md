@@ -74,7 +74,7 @@ This table bellow showing the read sections in code 201, which contain a list of
 - jQuery Events and DOM Manipulation
 
 ## What are read sections will be in Code 301?
-This table bellow showing the read sections in code 201, which contain a list of topics  linked with its page.
+This table bellow showing the read sections in code 301, which contain a list of topics  linked with its page.
 
 
 
