@@ -33,7 +33,7 @@ It is often referred to as “logic-less” because there are no if statements, 
   - **space-evenly:** items are distributed so that the spacing between any two items (and the space to the edges) is equal.
 - **align-items:** This defines the default behavior for how flex items are laid out along the cross axis on the current line.
   - **stretch (default):** stretch to fill the container (still respect min-width/max-width).
-- **flex-start / start / self-start:** items are placed at the start of the cross axis. The difference between these is subtle, and is about respecting the flex-direction rules or the writing-mode rules.
+  - **flex-start / start / self-start:** items are placed at the start of the cross axis. The difference between these is subtle, and is about respecting the flex-direction rules or the writing-mode rules.
   - **flex-end / end / self-end:** items are placed at the end of the cross axis. The difference again is subtle and is about respecting -flex-direction rules vs. writing-mode rules.
   - **center:** items are centered in the cross-axis.
   - **baseline:** items are aligned such as their baselines align. 
