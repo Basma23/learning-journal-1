@@ -45,6 +45,7 @@ It is often referred to as “logic-less” because there are no if statements, 
   - **space-around:** items evenly distributed with equal space around each line.
   - **space-evenly:** items are evenly distributed with equal space around them.
   - **stretch (default):** lines stretch to take up the remaining space.
+  
 **Properties for the Children (flex items):**
 - **order:** By default, flex items are laid out in the source order. However, the order property controls the order in which they appear in the flex container.
 - **flex-grow:** This defines the ability for a flex item to grow if necessary. It accepts a unitless value that serves as a proportion. It dictates what amount of the available space inside the flex container the item should take up.
