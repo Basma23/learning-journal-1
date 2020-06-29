@@ -15,7 +15,7 @@ It is often referred to as “logic-less” because there are no if statements, 
   - **row-reverse:** right to left in ltr; left to right in rtl
   - **column:** same as row but top to bottom
   - **column-reverse:** same as row-reverse but bottom to top
-- **flex-wrap:** 
+- **flex-wrap:** By default, flex items will all try to fit onto one line. 
   - **nowrap (default):** all flex items will be on one line
   - **wrap:** flex items will wrap onto multiple lines, from top to bottom.
   - **wrap-reverse:** flex items will wrap onto multiple lines from bottom to top.
