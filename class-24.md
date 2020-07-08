@@ -8,9 +8,11 @@ Functional programming is a programming paradigm, a style of building the struct
   - It does not cause any observable side effects.
 
 **Pure functions benefits**
+
 The code’s definitely easier to test. So we can unit test pure functions with different contexts.
 
 **Immutability**
+
 Unchanging over time or unable to be changed. When data is immutable, its state cannot change after it’s created. If you want to change an immutable object, you can’t. Instead, you create a new object with the new value. In Javascript we commonly use the for loop. This next for statement has some mutable variables. 
 
 **Functions as first-class entities**
@@ -25,6 +27,7 @@ Functions as first-class entities can:
 The idea is to treat functions as values and pass functions like data. This way we can combine different functions to create new functions with new behavior.
 
 **Higher-order functions**
+
 When we talk about higher-order functions, we mean a function that either:
 - takes one or more functions as arguments, or
 - returns a function as its result
@@ -34,6 +37,7 @@ When we talk about higher-order functions, we mean a function that either:
 The filter function expects a true or false value to determine if the element should or should not be included in the result collection. Basically, if the callback expression is true, the filter function will include the element in the result collection.
 
 **Map**
+
 The idea of map is to transform a collection. The map method transforms a collection by applying a function to all of its elements and building a new collection from the returned values.
 
 **Reduce**
