@@ -21,7 +21,7 @@ At the most basic level, a call stack is a data structure that uses the Last In,
 
 A stack overflow occurs when there is a recursive function (a function that calls itself) without an exit point. The browser (hosting environment) has a maximum stack call that it can accomodate before throwing a stack error.
 
-**JavaScript error messages && debugging**
+**JavaScript error messages**
 
 **Types of error messages**
 
