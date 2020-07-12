@@ -19,6 +19,7 @@
 - Complies with the Express view system
 
 **Use EJS to Template Your Node Application**
+
 When creating quick on-the-fly Node applications, an easy and fast way to template our application is sometimes necessary. So far we've been building out full MEAN applications and Angular acts as our templating engine.
 
 For applications that need quick templating, there are many options that we can use. Jade comes as the view engine for Express by default but that syntax just flat out scares me. EJS is one alternative does that job well and is very easy to set up. 
